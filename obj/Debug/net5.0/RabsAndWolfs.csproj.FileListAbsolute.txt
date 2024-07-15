@@ -1,0 +1,16 @@
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\bin\Debug\net5.0\RabsAndWolfs.exe
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\bin\Debug\net5.0\RabsAndWolfs.deps.json
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\bin\Debug\net5.0\RabsAndWolfs.runtimeconfig.json
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\bin\Debug\net5.0\RabsAndWolfs.runtimeconfig.dev.json
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\bin\Debug\net5.0\RabsAndWolfs.dll
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\bin\Debug\net5.0\ref\RabsAndWolfs.dll
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\bin\Debug\net5.0\RabsAndWolfs.pdb
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\RabsAndWolfs.csprojAssemblyReference.cache
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\RabsAndWolfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\RabsAndWolfs.AssemblyInfoInputs.cache
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\RabsAndWolfs.AssemblyInfo.cs
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\RabsAndWolfs.csproj.CoreCompileInputs.cache
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\RabsAndWolfs.dll
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\ref\RabsAndWolfs.dll
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\RabsAndWolfs.pdb
+C:\Users\Джамиля.ТЕРМИНАТОР\source\repos\RabsAndWolfs\obj\Debug\net5.0\RabsAndWolfs.genruntimeconfig.cache
